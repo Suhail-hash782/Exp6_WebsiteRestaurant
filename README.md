@@ -280,6 +280,7 @@ Publish the website in the given URL.
 ![alt text](<Screenshot 2025-12-18 221826.png>)
 ![alt text](<Screenshot 2025-12-18 221840.png>)
 ![alt text](<Screenshot 2025-12-18 221903.png>)
+![alt text](<Screenshot 2025-12-18 230504.png>)
 
 
 ## RESULT:
